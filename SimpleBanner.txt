@@ -1,3 +1,5 @@
+Tutorial penggunaan => https://youtu.be/lDMlP7smN-M
+
 [ termux percantik ]
 
 $ pkg upgrade && pkg update
