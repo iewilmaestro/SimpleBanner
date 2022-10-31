@@ -39,7 +39,7 @@ date | lolcat
 ~ standard
 ~ term
 
-[ FILTER LUST ]
+[ FILTER LIST ]
 toilet --filter list
 
 [ LIST WARNA ]
